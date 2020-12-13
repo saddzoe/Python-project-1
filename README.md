@@ -1,2 +1,8 @@
 # Python-project-1
-This is a python project Im using to practice on my coding skills.
+
+verb = input("Verb: ")
+noun = input("Noun: ")
+adj = input("Adjective: ")
+
+
+madlib = "I like to go {verb} whenever I see a {noun}. My parents told me to stop being so {adj}."
