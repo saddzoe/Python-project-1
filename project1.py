@@ -5,4 +5,6 @@ noun = input("Noun: ")
 adj = input("Adjective: ")
 
 
-madlib = "I like to go {verb} whenever I see a {noun}. My parents told me to stop being so {adj}."
+madlib = f"I like to go {verb} whenever I see a {noun}. My parents told me to stop being so {adj}."
+
+print madlib
